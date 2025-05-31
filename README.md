@@ -39,7 +39,7 @@ Before you begin, ensure you have the following:
 npm install
 ```
 
-3.**Set up environment variables: Create a .env file in the project root and add the following**:
+3. **Set up environment variables: Create a .env file in the project root and add the following**:
 
 ```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key
@@ -47,7 +47,7 @@ VITE_APPWRITE_ENDPOINT=your_appwrite_endpoint
 VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
 ```
 
-4.**Run the development server**:
+4. **Run the development server**:
 
 ```bash
 npm run dev
