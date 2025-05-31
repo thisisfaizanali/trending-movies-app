@@ -1,6 +1,6 @@
 # Trending Movies App
 
-A modern web application that displays trending movies using the TMDB (The Movie Database) API, built with React and Vite, with Appwrite as the backend-as-a-service for user authentication and data storage. The app is deployed on Vercel.animations for seamless hosting and scalability.
+A modern web application that displays trending movies using the TMDB (The Movie Database) API, built with React and Vite, with Appwrite as the backend-as-a-service for user authentication and data storage. The app is deployed on Vercel.
 
 ## Features
 
