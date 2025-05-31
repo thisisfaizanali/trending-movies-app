@@ -31,7 +31,7 @@ Before you begin, ensure you have the following:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/thisisfaizanali/trending-movies-app.git
-   cd trending-movie-shower
+   cd trending-movies-app
    ```
 2. **Install dependencies**:
 
